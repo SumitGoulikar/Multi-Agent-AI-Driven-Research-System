@@ -44,3 +44,6 @@ pydantic>=2.5.0
 
 # Optional HTML cleanup
 html5lib>=1.1
+
+# Frontend and deployment
+Streamlit
