@@ -1,4 +1,4 @@
-# 🧠 Multi-Agent AI-Driven Research System
+# ⚛︎ Multi-Agent AI-Driven Research System
 
 > Enter a topic. Get a fully researched, written, and reviewed report — automatically.
 
